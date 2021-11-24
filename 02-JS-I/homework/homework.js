@@ -28,7 +28,7 @@ const nuevoModulo = 21 % 5 === 1;
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
-  
+  return str;
 }
 
 function suma(x, y) {
@@ -37,7 +37,6 @@ function suma(x, y) {
   // Tu código:
     return x, y;
 }
-suma(2, 3)
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
@@ -76,7 +75,7 @@ function menosQueNoventa(num) {
   // Devuelve "true" si el argumento de la función "num" es menor que noventa
   // De lo contrario, devuelve "false"
   // Tu código:
-  
+  50 < 90
 }
 
 function mayorQueCincuenta(num) {
