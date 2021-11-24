@@ -37,6 +37,7 @@ function suma(x, y) {
   // Tu código:
     return x, y;
 }
+suma(2, 3)
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
