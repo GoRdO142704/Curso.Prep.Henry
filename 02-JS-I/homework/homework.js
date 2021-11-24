@@ -43,7 +43,7 @@ function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
   console.log(x, y)
-  return resta
+  return resta;
 }
 
 function multiplica(x, y) {
