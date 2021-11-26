@@ -70,42 +70,53 @@ function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
   // Tu código:
-  return str1 == str2;
+  if (str1 == str2) {return true;} else 
+  {return false;
+  }
+
 }
 
 function menosQueNoventa(num) {
   // Devuelve "true" si el argumento de la función "num" es menor que noventa
   // De lo contrario, devuelve "false"
   // Tu código:
-   true < 90;
+   if (70) {return true;} else {return false;
+  }
 }
 
 function mayorQueCincuenta(num) {
   // Devuelve "true" si el argumento de la función "num" es mayor que cincuenta
   // De lo contrario, devuelve "false"
   // Tu código:
-  false > 50;
+  if (30) {return true} else 
+  {return false;
+  }
 }
 
 function obtenerResto(x, y) {
   // Obten el resto de la división de "x" entre "y"
   // Tu código:
-  return x % y;
+  var obtenerResto = x % y; 
+  return obtenerResto;
 }
 
 function esPar(num) {
   // Devuelve "true" si "num" es par
   // De lo contrario, devuelve "false"
   // Tu código:
-  true > 22;
+if (6 % 2==3)return true; } else 
+{return false
 }
+
 
 function esImpar(num) {
   // Devuelve "true" si "num" es impar
   // De lo contrario, devuelve "false"
   // Tu código:
-  false < 7;
-}
+  if (7 % 4==3) } else 
+  {return false
+  }
+
 
 function elevarAlCuadrado(num) {
   // Devuelve el valor de "num" elevado al cuadrado
