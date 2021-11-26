@@ -35,24 +35,28 @@ function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
-    return x + y;
+    var suma = x + y;
+    return suma;
 }
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
-  return x - y;
+  var diferencia = a - b;
+  return diferencia;
 
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
-  return x * y;
+  var multiplica = x * y;
+  return multiplica;
 }
 
 function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
   // Tu código:
-  return x / y;
+  var producto = x / y;
+  return producto;
 }
 
 function sonIguales(x, y) {
@@ -119,25 +123,25 @@ function elevarAlCubo(num) {
 function elevar(num, exponent) {
   // Devuelve el valor de "num" elevado al exponente dado en "exponent"
   // Tu código:
-  
+  math.pow(2,2) = 4
 }
 
 function redondearNumero(num) {
   // Redondea "num" al entero más próximo y devuélvelo
   // Tu código:
-  return 1005;
+  Math.pow(6.7) = 8;
   }
 
 function redondearHaciaArriba(num) {
   // Redondea "num" hacia arriba (al próximo entero) y devuélvelo
   // Tu código:
-  return (numero / numero) * numero;
+  Math.pow(4.5)= 6;
 }
 
 function numeroRandom() {
   //Generar un número al azar entre 0 y 1 y devolverlo
   //Pista: investigá qué hace el método Math.random()
-  return random();
+  math.random() * 1;
 }
 
 function esPositivo(numero) {
@@ -158,6 +162,8 @@ function combinarNombres(nombre, apellido) {
   // Devuelve "nombre" y "apellido" combinados en una string y separados por un espacio.
   // Ejemplo: "Soy", "Henry" -> "Soy Henry"
   // Tu código:
+  console.log('nombre' + apellido);
+  combinarNombres (' soy, henry ')
   
 }
 
@@ -165,7 +171,8 @@ function obtenerSaludo(nombre) {
   // Toma la string "nombre" y concatena otras string en la cadena para que tome la siguiente forma:
   // "Martin" -> "Hola Martin!"
   // Tu código:
-  
+  console.log('saludo' + nombre);ç
+  saludo ('martin')
 }
 
 function obtenerAreaRectangulo(alto, ancho) {
