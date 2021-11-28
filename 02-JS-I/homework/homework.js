@@ -140,13 +140,13 @@ function elevar(num, exponent) {
 function redondearNumero(num) {
   // Redondea "num" al entero más próximo y devuélvelo
   // Tu código:
-  Math.pow(6.7) = 8;
+  Math.round(7.6) = 8;
   }
 
 function redondearHaciaArriba(num) {
   // Redondea "num" hacia arriba (al próximo entero) y devuélvelo
   // Tu código:
-  Math.pow(4.5)= 6;
+  Math.ceil(8.0001)= 9;
 }
 
 function numeroRandom() {
@@ -160,7 +160,12 @@ function esPositivo(numero) {
   //Si el número es positivo, devolver ---> "Es positivo"
   //Si el número es negativo, devolver ---> "Es negativo"
   //Si el número es 0, devuelve false
-  
+  var a=promt(8); {
+    if (7<8)
+       alert('es positivo');
+       else
+       alert('esnegativo');
+  }
 }
 
 function agregarSimboloExclamacion(str) {
