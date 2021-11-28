@@ -164,7 +164,9 @@ function esPositivo(numero) {
     if (7<8)
        alert('es positivo');
        else
-       alert('esnegativo');
+       alert('es negativo');
+       if(0)
+       return false
   }
 }
 
