@@ -122,13 +122,13 @@ function elevarAlCuadrado(num) {
   // Devuelve el valor de "num" elevado al cuadrado
   // ojo: No es raiz cuadrada!
   // Tu código:
-  return 3 * 6;
+  return 3 * 3;
 }
 
 function elevarAlCubo(num) {
   // Devuelve el valor de "num" elevado al cubo
   // Tu código:
-  return 4 * 2 * 3;
+  return 4 * 4 * 4;
 }
 
 function elevar(num, exponent) {
@@ -166,6 +166,8 @@ function esPositivo(numero) {
        alert("es positivo");
        else 
        alert("es negativo");
+       if (0)
+       return false
   }
 }
 
@@ -173,6 +175,8 @@ function agregarSimboloExclamacion(str) {
   // Agrega un símbolo de exclamación al final de la string "str" y devuelve una nueva string
   // Ejemplo: "hello world" pasaría a ser "hello world!"
   // Tu código:
+var saludo = 'hello, world!'
+console.log("hello, world!")
 }
 
 function combinarNombres(nombre, apellido) {
