@@ -108,7 +108,7 @@ function esPar(num) {
   if (6 % 2==3) {return true;} else 
   {return false
 }
-
+}
 
 function esImpar(num) {
   // Devuelve "true" si "num" es impar
@@ -181,7 +181,7 @@ function combinarNombres(nombre, apellido) {
   // Ejemplo: "Soy", "Henry" -> "Soy Henry"
   // Tu código:
   console.log('nombre' + apellido);
-  combinarNombres (' soy, henry ')
+  combinarNombres ('soy, henry')
   
 }
 
@@ -189,7 +189,7 @@ function obtenerSaludo(nombre) {
   // Toma la string "nombre" y concatena otras string en la cadena para que tome la siguiente forma:
   // "Martin" -> "Hola Martin!"
   // Tu código:
-  console.log('saludo' + nombre);ç
+  console.log('saludo' + nombre);
   saludo ('martin')
 }
 
