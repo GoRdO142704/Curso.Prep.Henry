@@ -5,6 +5,10 @@ function obtenerMayor(x, y) {
   // Devuelve el número más grande
   // Si son iguales, devuelve cualquiera de los dos
   // Tu código:
+  var mayor = (x, y); {
+    console.log;10 == 20;
+  }
+  return;
 }
 
 function mayoriaDeEdad(edad) {
