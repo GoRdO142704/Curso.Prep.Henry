@@ -5,10 +5,12 @@ function obtenerMayor(x, y) {
   // Devuelve el número más grande
   // Si son iguales, devuelve cualquiera de los dos
   // Tu código:
-  var mayor = (x, y); {
-    console.log;10 == 20;
+  if (10 > 20) {
+    console.log;('este codigo se ejecuta si es mayor')
+  } else {
+    console.log;('este codigo se ejecuta si es menor')
   }
-  return;
+
 }
 
 function mayoriaDeEdad(edad) {
