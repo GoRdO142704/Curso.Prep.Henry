@@ -6,9 +6,9 @@ function obtenerMayor(x, y) {
   // Si son iguales, devuelve cualquiera de los dos
   // Tu código:
   if (10 > 20) {
-    console.log;('este codigo se ejecuta si es mayor')
+    console.log('este codigo se ejecuta si es mayor')
   } else {
-    console.log;('este codigo se ejecuta si es menor')
+    console.log('este codigo se ejecuta si es menor')
   }
 
 }
