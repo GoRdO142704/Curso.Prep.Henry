@@ -134,13 +134,13 @@ function elevarAlCubo(num) {
 function elevar(num, exponent) {
   // Devuelve el valor de "num" elevado al exponente dado en "exponent"
   // Tu código:
-  math.pow(2, 2) = 4
+  math.pow (2, 2) === 4
 }
 
 function redondearNumero(num) {
   // Redondea "num" al entero más próximo y devuélvelo
   // Tu código:
-  Math.round(7.6) = 8;
+  Math.round (7.6) == 8;
   }
 
 function redondearHaciaArriba(num) {
