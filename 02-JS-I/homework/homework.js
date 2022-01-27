@@ -146,7 +146,7 @@ function redondearNumero(num) {
 function redondearHaciaArriba(num) {
   // Redondea "num" hacia arriba (al próximo entero) y devuélvelo
   // Tu código:
-  Math.ceil(8.0001)= 9;
+  Math.ceil (8.0001) == 9;
 }
 
 function numeroRandom() {
