@@ -5,18 +5,23 @@ function obtenerMayor(x, y) {
   // Devuelve el número más grande
   // Si son iguales, devuelve cualquiera de los dos
   // Tu código:
-  if (10 > 20) {
-    console.log('este codigo se ejecuta si es mayor')
-  } else {
-    console.log('este codigo se ejecuta si es menor')
-  }
-
+  if (10 >= 20) {
+    return x;
+  }if (x <= y){
+    return y;
+  }else (x == y)
+  return Math.max;
 }
 
 function mayoriaDeEdad(edad) {
   //Determinar si la persona según su edad puede ingresar a un evento.
   //Si tiene 18 años ó más, devolver --> "Allowed"
   //Si es menor, devolver --> "Not allowed"
+  var mayoriaDeEdad = (18 >= 25) {
+  return "allowed";
+ }if (18 <= 17){
+   return "not allowed";
+ }
 }
   
 function conection(status) {
